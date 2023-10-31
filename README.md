@@ -31,6 +31,8 @@ Para poder ejecutar estas demos necesitas:
 
 Seguramente no tenga en cuenta el servidor que necesitarás para ejecutar la API
 
+7. En el archivo **steps.sh** del proyecto tienes las sugerencias para que GitHub Copilot te genere los comandos oportunos.
+
 7. **¿Cómo ejecuto esta API?**
 
 <img src="images/GH Copilot Chat - Cómo ejecuto la API en Python.png" width="50%">
@@ -38,3 +40,9 @@ Seguramente no tenga en cuenta el servidor que necesitarás para ejecutar la API
 8. **Puedes crearme llamadas a esta API para la extensión REST CLIENT de VS Code?**
    
 <img src="images/GitHub Copilot Chat - Generar llamadas para extensión REST Client.png" width="50%">
+
+9. **¿Me puedes ayudar a crear un Dockerfile para esta API?**
+
+<img src="images/GitHub Copilot Chat - Generar un Dockerfile para FastAPI.png" width="50%">
+
+En el archivo steps.sh tienes los comandos para que te ayude a generar la imagen y ejecutar el contenedor usando GitHub Copilot.
