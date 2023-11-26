@@ -1,4 +1,4 @@
-# GitHub Copilot para los amantes de Python ❤️🐍
+# GitHub Copilot para los amantes de Python 💛🐍
 
 Para poder ejecutar estas demos necesitas:
 
